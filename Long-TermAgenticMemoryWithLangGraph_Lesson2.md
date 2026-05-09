@@ -35,6 +35,10 @@ We'll start with a simple implementation - one that uses hard-coded rules to han
 
 
 
+
+
+
+
 <div style="background-color:#fff6ff; padding:13px; border-width:3px; border-color:#efe6ef; border-style:solid; border-radius:6px">
 <p> 💻 &nbsp; <b>Access <code>requirements.txt</code> , notebooks and other files:</b> 1) click on the <em>"File"</em> option on the top menu of the notebook and then 2) click on <em>"Open"</em>.
 
