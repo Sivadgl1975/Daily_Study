@@ -8,7 +8,7 @@ This lesson builds an email assistant that:
 We'll start with a simple implementation - one that uses hard-coded rules to handle emails.
 
 
-<img width="1874" height="811" alt="image" src="https://github.com/user-attachments/assets/142f2b0e-cc1a-41e2-a2cd-90ea20b86722" />
+!<img width="1874" height="811" alt="image" src="https://github.com/user-attachments/assets/142f2b0e-cc1a-41e2-a2cd-90ea20b86722" />
 
 
 
